@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "inIJmNUY5bbxXqJQDRYH3rsFH5Rrvx88dDgdlgLwv20=",
+  "Source": "OrderRestApi",
+  "BasePath": "_content/OrderRestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
